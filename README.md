@@ -1,65 +1,38 @@
-## Shamim Salaudin
-🚀 **Transformational Leader** | **EdTech Founder** | **Front-End Instructor**
-
 # Shamim Salaudin
 
-🚀 **Transformational Leader** | **EdTech Founder** | **Front-End Instructor**
-
+ **EdTech Founder** | **Full Stack Developer** | **Mentor & Guide**
 ---
 
 ### 👋 About Me
 
-Hello! I am passionate about making systems-level changes and creating impactful solutions. My expertise lies in **front-end development**, **AI/ML**, and **startup growth**. Let's create something amazing together! 🌟
+
+I’m a budding entrepreneur and innovator passionate about driving growth in talent management, education, and technology. With expertise as a full-stack web developer specializing in Node.js, React, React Native, JavaScript, WordPress, PHP, and Python, I thrive on creating impactful, user-centric solutions. My commitment to innovation and meaningful design fuels my mission to make a positive impact. Let’s collaborate and build something extraordinary! 
 
 ---
 
 ### 🔗 Portfolio
 
-Check out my [portfolio](https://your-portfolio-link.com) to see a showcase of my work and projects.
-
----
-
-### 📝 Blog Posts
-
-Explore my [blog](https://your-blog-link.com) for articles on:
-- Career Guidance
-- AI and ML
-- Web Development Tips and Tricks
+Check out my [portfolio](https://shamim-portfolio.web.app/) to see a showcase of my work, projects, and experiences.
 
 ---
 
 ### 🛠️ Skills
 
-- **Languages & Frameworks:** HTML, CSS, JavaScript, React.js
+- **Languages & Frameworks:** HTML, CSS, JavaScript, React.js, Next.js, MERN, Python
 - **Tools:** Git, GitHub, Figma, VS Code
-- **Soft Skills:** Leadership, Mentorship, Collaboration
+- **Soft Skills:** Leadership, Public Speaking, Mentorship, Collaboration
 
 ---
 
 ### 📂 Profiles
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- [Twitter](https://twitter.com/yourhandle)  
-- [Portfolio](https://your-portfolio-link.com)
+- [[LinkedIn](https://www.linkedin.com/in/shamim-salaudin/)  
+- [Portfolio](https://shamim-portfolio.web.app/)
 
 ---
 
 ### 🌐 Contact
 
-📧 Email: your-email@example.com  
-🌍 Website: [https://your-website-link.com](https://your-website-link.com)
+📧 Email: shamimsalaudin@gmail.com 
+🌍 Website: [https://your-website-link.com](https://shamim-portfolio.web.app/)
 
-<!--
-**shami-salaudin/shami-salaudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
