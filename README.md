@@ -26,7 +26,7 @@ Check out my [portfolio](https://shamim-portfolio.web.app/) to see a showcase of
 
 ### 📂 Profiles
 
-- [[LinkedIn](https://www.linkedin.com/in/shamim-salaudin/)  
+- [LinkedIn](https://www.linkedin.com/in/shamim-salaudin/)  
 - [Portfolio](https://shamim-portfolio.web.app/)
 
 ---
