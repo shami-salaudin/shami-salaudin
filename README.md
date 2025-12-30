@@ -1,6 +1,6 @@
 # Shamim Salaudin
 
- **Building Megathil - One Stop solution to all telent and skill needs** | **Software Engineer** | **Mentor & Guide**
+ **Building Megathil - One Stop solution to all talent and skill needs** | **Software Engineer** | **Mentor & Guide**
 ---
 
 ### 👋 About Me
