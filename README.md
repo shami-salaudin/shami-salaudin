@@ -1,6 +1,6 @@
 # Shamim Salaudin
 
- **EdTech Founder** | **Full Stack Developer** | **Mentor & Guide**
+ **Building Megathil - One Stop solution to all telent and skill needs** | **Software Engineer** | **Mentor & Guide**
 ---
 
 ### 👋 About Me
